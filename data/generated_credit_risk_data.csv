@@ -1,0 +1,1001 @@
+Age,Sex,Job,Housing,Saving accounts,Cheking account,Credit amount,Duraiton,Purpose
+58,male,0,rent,Rich,12251,11651,57,Education
+48,female,2,free,Rich,13131,17067,10,Repairs
+34,female,3,rent,Quite Rich,19493,3858,25,Car
+62,female,0,free,Quite Rich,12707,10090,23,Buisness
+27,female,0,own,Quite Rich,19624,11488,7,Repairs
+40,male,3,free,Little,18233,8178,18,Vacation
+58,male,3,rent,Rich,2749,6198,9,Repairs
+38,female,1,own,Moderate,13156,1773,47,Repairs
+42,male,2,free,Quite Rich,16589,11741,66,Vacation
+30,female,3,free,Moderate,3450,17980,13,Repairs
+30,female,3,free,Moderate,7214,9997,68,Buisness
+43,female,2,rent,Quite Rich,11814,9607,14,Education
+55,male,3,rent,Rich,5141,11773,16,Repairs
+59,female,3,free,Quite Rich,2708,8502,47,Buisness
+43,female,1,own,Moderate,18375,4747,18,Education
+22,female,0,own,Quite Rich,15088,9720,41,Education
+41,male,0,rent,Moderate,11834,11203,18,Repairs
+21,male,0,own,Moderate,12278,15972,17,Buisness
+43,female,0,rent,Quite Rich,10014,17154,42,Repairs
+63,male,3,free,Little,3273,18070,57,Vacation
+49,male,2,rent,Quite Rich,14367,12892,7,Education
+57,male,2,rent,Little,4538,12456,61,Repairs
+21,male,1,free,Moderate,12541,16141,65,Education
+40,male,1,own,Moderate,8712,14498,28,Buisness
+52,male,3,rent,Little,9168,6805,45,Car
+31,male,2,rent,Moderate,3551,19282,69,Repairs
+41,male,2,free,Little,12297,13221,28,Repairs
+63,male,0,own,Little,10965,7495,34,Education
+44,male,3,rent,Moderate,2832,12927,56,Buisness
+46,female,3,free,Rich,13422,14282,36,Vacation
+61,female,0,rent,Little,152,2730,55,Buisness
+47,male,3,free,Quite Rich,11156,7011,25,Repairs
+35,female,3,own,Quite Rich,11108,17012,60,Vacation
+34,female,1,own,Moderate,2800,9961,7,Buisness
+63,male,2,own,Rich,5310,5265,30,Car
+22,male,3,own,Moderate,9944,13772,18,Education
+56,male,1,rent,Rich,2610,6052,63,Buisness
+26,female,2,rent,Little,12067,1127,69,Buisness
+40,female,0,own,Little,1104,12489,64,Car
+28,male,1,own,Little,10728,14280,65,Repairs
+58,male,1,own,Little,7263,7089,67,Education
+37,male,2,rent,Quite Rich,1914,2544,21,Buisness
+23,female,0,own,Quite Rich,19456,13671,20,Vacation
+44,female,1,own,Moderate,406,19225,60,Buisness
+33,female,3,own,Rich,13689,6384,40,Education
+28,female,3,free,Little,166,8685,60,Buisness
+45,male,3,own,Little,508,749,19,Car
+21,male,0,free,Rich,18045,19809,54,Buisness
+39,male,1,free,Rich,3664,17858,12,Buisness
+47,male,3,own,Moderate,19873,9675,35,Vacation
+26,female,0,free,Rich,13050,16760,54,Car
+63,female,3,own,Little,680,3172,21,Car
+27,male,2,rent,Little,18908,7779,56,Buisness
+54,male,1,rent,Little,18504,9162,47,Vacation
+33,female,1,rent,Little,4357,2487,22,Buisness
+36,male,0,rent,Little,1363,16974,68,Buisness
+55,female,0,free,Moderate,9523,13448,50,Education
+59,male,1,own,Little,2292,13526,12,Education
+23,male,3,own,Moderate,1538,3273,32,Vacation
+21,male,3,own,Little,3408,13659,15,Repairs
+25,male,2,rent,Quite Rich,8752,10378,39,Education
+61,male,3,rent,Quite Rich,18287,10678,41,Repairs
+23,male,0,own,Quite Rich,174,10877,30,Car
+48,male,0,rent,Quite Rich,2230,7847,11,Education
+37,female,3,own,Moderate,4287,1508,29,Education
+45,female,0,own,Moderate,12112,4283,23,Vacation
+63,female,1,own,Rich,7106,4798,11,Repairs
+53,female,1,own,Little,9689,5168,34,Education
+29,female,3,own,Quite Rich,12046,2552,30,Education
+55,male,1,own,Moderate,19555,2216,60,Vacation
+33,male,1,own,Little,17951,810,51,Vacation
+50,female,2,rent,Little,1151,14891,29,Repairs
+34,male,2,own,Moderate,7619,1760,31,Car
+27,female,1,own,Quite Rich,6033,13657,33,Car
+33,female,3,rent,Rich,8560,11960,8,Buisness
+42,male,2,rent,Little,4946,17468,43,Education
+59,male,0,rent,Rich,1907,14511,66,Repairs
+40,male,0,own,Quite Rich,3490,3366,56,Education
+35,female,0,free,Quite Rich,18919,14865,53,Repairs
+64,male,3,free,Rich,4173,6398,26,Repairs
+37,female,1,rent,Quite Rich,11065,18895,59,Repairs
+43,female,0,free,Little,17677,6751,61,Education
+45,female,3,rent,Rich,4769,5439,64,Vacation
+44,male,2,own,Quite Rich,4796,4506,56,Education
+64,male,1,free,Rich,13046,2125,25,Repairs
+60,female,2,own,Little,14211,11456,64,Buisness
+48,male,3,free,Quite Rich,19356,17774,14,Car
+34,male,0,own,Little,4997,6578,6,Repairs
+64,male,0,free,Quite Rich,17376,9423,34,Buisness
+20,female,3,own,Moderate,8112,4461,68,Vacation
+44,female,0,own,Quite Rich,5287,19388,61,Repairs
+26,male,1,free,Rich,10578,9306,40,Buisness
+28,female,3,own,Quite Rich,18624,18603,8,Repairs
+43,male,2,own,Little,17860,14058,12,Education
+20,male,3,own,Little,6426,7186,32,Buisness
+63,male,1,free,Quite Rich,11599,2087,6,Education
+27,male,1,free,Rich,389,10303,49,Education
+43,female,3,own,Moderate,999,17780,46,Buisness
+30,female,3,own,Rich,12812,10850,47,Car
+36,female,0,free,Moderate,15599,19316,38,Buisness
+27,male,1,free,Little,1855,11954,55,Car
+54,male,3,own,Rich,8125,16349,68,Repairs
+54,male,3,own,Moderate,13794,7337,42,Repairs
+52,female,1,own,Quite Rich,2763,1949,64,Buisness
+24,male,3,rent,Little,4986,5954,53,Repairs
+61,female,0,free,Quite Rich,1481,9924,10,Vacation
+58,female,1,rent,Little,3731,4617,53,Education
+60,female,0,free,Rich,16835,9369,8,Education
+47,female,0,free,Rich,19477,11350,52,Car
+26,female,0,free,Little,17266,18912,67,Repairs
+28,female,0,free,Little,10758,14843,19,Car
+27,male,1,free,Little,19661,7345,68,Education
+31,male,0,free,Rich,16311,5124,66,Education
+53,female,0,free,Moderate,8566,9348,36,Repairs
+52,female,3,rent,Quite Rich,11889,17049,22,Vacation
+42,male,1,own,Quite Rich,11254,13636,29,Vacation
+43,female,1,own,Rich,11442,1089,28,Repairs
+56,female,2,rent,Quite Rich,13521,19705,55,Repairs
+54,male,1,rent,Little,4559,7009,32,Car
+63,female,1,rent,Moderate,16199,8193,20,Repairs
+59,female,2,rent,Quite Rich,7291,9954,55,Vacation
+41,female,1,free,Moderate,8160,16955,41,Repairs
+46,male,1,own,Little,112,12208,13,Car
+54,male,1,free,Quite Rich,19581,13442,8,Car
+20,male,1,own,Rich,15924,17152,67,Car
+54,female,2,own,Moderate,16523,10468,52,Car
+56,female,1,rent,Little,1424,2962,66,Buisness
+33,male,1,free,Moderate,19333,9960,37,Repairs
+22,female,2,rent,Quite Rich,19552,1515,18,Education
+20,female,3,free,Quite Rich,10808,9775,6,Repairs
+24,female,0,own,Rich,6043,13769,39,Buisness
+45,female,3,rent,Little,6989,906,67,Car
+33,female,2,rent,Little,6261,7884,36,Buisness
+58,male,0,own,Rich,887,11768,69,Vacation
+46,female,2,own,Rich,19488,17869,30,Vacation
+28,male,2,own,Little,16433,12295,43,Repairs
+34,female,1,rent,Moderate,19944,4985,19,Repairs
+34,male,0,free,Moderate,16402,9401,13,Education
+45,female,1,rent,Rich,12253,3118,59,Education
+61,male,0,free,Moderate,18990,10103,7,Vacation
+32,female,2,rent,Little,7846,7428,61,Car
+51,male,2,rent,Quite Rich,6432,5868,66,Buisness
+58,female,3,own,Quite Rich,13452,5121,27,Education
+51,male,0,free,Moderate,13395,15219,40,Education
+23,female,1,rent,Rich,3765,11626,21,Car
+49,male,3,rent,Rich,18822,8066,55,Car
+56,male,3,own,Rich,15950,12806,48,Repairs
+42,female,3,own,Rich,12502,15586,22,Buisness
+58,female,1,free,Rich,9741,17887,63,Car
+64,male,3,rent,Moderate,5941,19350,7,Education
+34,female,1,free,Quite Rich,4855,18823,9,Education
+62,male,3,rent,Quite Rich,15166,18519,44,Vacation
+48,male,1,free,Moderate,19145,10390,11,Car
+55,male,2,own,Rich,5788,8595,25,Repairs
+32,female,2,rent,Moderate,201,13219,69,Buisness
+51,male,2,free,Quite Rich,10561,10783,21,Repairs
+26,male,2,own,Little,16901,18779,56,Education
+41,female,2,own,Moderate,7737,14731,42,Repairs
+47,female,3,free,Rich,1988,15198,47,Education
+21,female,3,rent,Quite Rich,15441,17957,62,Education
+61,female,3,rent,Quite Rich,11737,5684,71,Education
+64,male,1,own,Quite Rich,14256,2902,14,Education
+25,male,1,rent,Quite Rich,7162,5395,69,Education
+47,male,1,rent,Rich,13065,11904,27,Vacation
+47,male,1,rent,Little,14114,15661,39,Repairs
+63,female,2,own,Quite Rich,8399,9843,60,Vacation
+63,male,2,free,Moderate,5633,11137,34,Vacation
+39,male,2,rent,Little,5755,2456,43,Car
+49,female,0,own,Quite Rich,10825,7523,23,Car
+30,male,3,own,Little,4117,14562,70,Car
+47,male,1,free,Moderate,1518,14833,6,Buisness
+44,male,1,rent,Quite Rich,16346,4407,9,Car
+58,male,2,rent,Moderate,2600,1307,9,Repairs
+52,male,1,free,Rich,13237,14531,32,Vacation
+20,male,1,free,Quite Rich,18579,5327,48,Repairs
+46,female,3,own,Quite Rich,3554,14199,64,Car
+32,female,2,own,Quite Rich,16193,5024,37,Buisness
+60,male,3,free,Quite Rich,19233,15693,38,Buisness
+22,male,0,rent,Rich,15253,16723,33,Vacation
+58,female,0,own,Quite Rich,16194,19168,60,Repairs
+25,male,0,own,Little,1742,5813,65,Education
+27,male,2,rent,Quite Rich,1306,14098,67,Repairs
+46,male,1,own,Rich,3849,13558,39,Car
+28,female,2,rent,Quite Rich,12360,17641,61,Education
+56,male,2,rent,Little,12768,5387,18,Buisness
+52,female,1,rent,Rich,13032,4354,61,Vacation
+61,male,3,free,Rich,4195,12958,23,Vacation
+63,female,0,free,Little,18939,15036,59,Buisness
+43,female,3,free,Little,18689,4058,48,Car
+34,male,0,rent,Little,7619,10272,44,Buisness
+51,female,2,rent,Little,9280,17845,66,Car
+51,male,0,free,Little,2642,4075,47,Education
+43,female,2,own,Rich,9369,2918,23,Buisness
+60,male,3,rent,Rich,14296,4698,28,Car
+31,male,2,own,Quite Rich,15438,1501,59,Education
+58,female,3,own,Quite Rich,15674,7619,35,Buisness
+21,male,1,rent,Moderate,4757,19729,63,Vacation
+22,male,1,rent,Quite Rich,2994,10173,23,Buisness
+56,female,1,own,Quite Rich,15226,5816,12,Repairs
+36,male,2,own,Little,1271,16744,45,Buisness
+21,male,1,free,Little,1813,17306,70,Repairs
+21,female,0,free,Quite Rich,18845,12373,54,Education
+47,female,3,rent,Moderate,8475,4766,57,Buisness
+42,male,3,free,Little,4396,8049,34,Education
+56,male,0,free,Quite Rich,9283,19594,26,Education
+51,female,2,free,Quite Rich,13318,11089,14,Car
+52,female,2,free,Rich,17200,2157,52,Education
+20,male,3,own,Moderate,82,19425,47,Education
+38,female,1,rent,Rich,1920,7263,56,Buisness
+21,male,2,free,Moderate,7817,19959,61,Buisness
+63,male,2,own,Little,11683,3664,56,Vacation
+45,male,0,own,Moderate,11336,18937,25,Car
+51,male,0,own,Quite Rich,15596,8979,32,Education
+25,male,1,free,Quite Rich,2093,6237,43,Car
+51,female,2,free,Moderate,12905,18331,70,Repairs
+23,female,2,rent,Moderate,8367,6509,59,Education
+30,female,0,free,Moderate,5285,17491,29,Car
+36,female,2,free,Rich,10896,5052,52,Vacation
+57,male,3,own,Moderate,4937,18648,68,Vacation
+43,male,0,rent,Little,16753,9917,62,Education
+24,male,1,free,Rich,18202,9721,60,Repairs
+53,male,0,free,Rich,18485,3171,65,Vacation
+25,female,2,own,Moderate,12977,7019,67,Vacation
+41,male,1,own,Little,19874,4462,35,Repairs
+30,male,0,free,Rich,18163,13234,27,Car
+35,female,3,rent,Quite Rich,7674,13622,34,Vacation
+52,female,3,rent,Rich,17748,4222,46,Buisness
+28,female,0,own,Moderate,3676,5406,47,Vacation
+25,female,3,own,Little,2426,7763,70,Car
+35,male,3,free,Moderate,2962,14199,36,Car
+48,male,3,own,Quite Rich,859,11588,35,Education
+22,female,1,free,Quite Rich,12048,1308,23,Buisness
+39,male,3,rent,Quite Rich,4138,9670,22,Car
+55,male,3,rent,Moderate,2424,16760,43,Repairs
+38,male,3,free,Rich,10409,17609,19,Buisness
+45,female,1,own,Moderate,4017,11193,61,Buisness
+22,male,0,rent,Little,10451,8201,27,Repairs
+38,female,2,own,Rich,10278,18100,61,Vacation
+39,male,3,rent,Quite Rich,10996,19081,24,Repairs
+51,male,0,free,Moderate,1134,14691,62,Repairs
+26,male,3,free,Quite Rich,5119,19690,49,Vacation
+60,female,1,free,Quite Rich,5694,17856,40,Vacation
+52,male,0,rent,Little,4164,14204,6,Vacation
+59,female,1,own,Rich,18730,2623,57,Vacation
+58,female,3,own,Little,5039,12033,42,Vacation
+37,female,3,own,Little,14631,17108,70,Repairs
+59,male,1,rent,Little,10442,14948,56,Education
+20,male,2,rent,Quite Rich,8252,15086,6,Education
+30,male,1,rent,Little,17721,2314,26,Car
+47,male,3,rent,Little,17568,13501,58,Education
+44,female,1,rent,Rich,1551,17990,21,Education
+42,female,2,own,Rich,12625,17008,66,Repairs
+50,female,1,rent,Little,1629,13880,59,Vacation
+49,male,2,rent,Rich,17910,15906,45,Vacation
+61,female,2,own,Rich,1361,3431,31,Repairs
+54,male,1,rent,Little,4370,14067,70,Education
+26,female,1,own,Quite Rich,5283,14538,69,Repairs
+35,male,0,own,Little,7610,12817,48,Car
+45,male,3,free,Rich,10558,3471,22,Vacation
+21,female,2,free,Quite Rich,14924,2517,64,Buisness
+20,female,0,free,Moderate,14839,2915,28,Car
+31,female,1,free,Quite Rich,11949,19980,12,Car
+24,female,3,rent,Rich,10626,2109,49,Repairs
+56,male,0,free,Quite Rich,1993,1217,58,Education
+51,female,2,own,Little,869,13162,39,Vacation
+28,female,0,rent,Moderate,1014,7282,51,Buisness
+60,female,2,free,Moderate,10103,1548,21,Car
+54,male,1,own,Moderate,16986,12118,24,Buisness
+38,male,3,rent,Rich,12013,8807,7,Education
+35,female,3,rent,Rich,690,8405,15,Education
+22,male,3,free,Moderate,16873,10493,55,Buisness
+39,female,1,rent,Quite Rich,10748,10838,17,Vacation
+43,male,2,own,Moderate,8024,6078,27,Education
+52,male,1,rent,Quite Rich,16678,14334,37,Buisness
+43,male,3,own,Quite Rich,5488,18504,6,Car
+30,male,1,rent,Rich,11035,7048,59,Buisness
+27,female,1,free,Quite Rich,19296,7881,63,Buisness
+55,female,1,own,Moderate,18257,3441,23,Repairs
+57,female,2,rent,Rich,12855,6195,11,Education
+59,male,0,rent,Little,19642,6901,50,Vacation
+39,female,0,rent,Little,2817,15679,28,Vacation
+54,female,1,own,Rich,4458,14956,28,Repairs
+44,female,0,own,Moderate,5307,13597,31,Vacation
+54,male,0,own,Little,8933,6697,12,Buisness
+44,male,1,free,Little,18425,5950,49,Repairs
+48,male,1,free,Quite Rich,17063,18437,32,Car
+37,female,3,own,Quite Rich,10659,17896,31,Education
+37,female,0,rent,Moderate,5738,8878,41,Education
+21,female,2,free,Rich,5668,2381,60,Education
+54,male,1,own,Moderate,14427,7299,69,Buisness
+35,male,3,rent,Rich,7697,15097,62,Car
+60,female,2,free,Little,16446,14175,66,Repairs
+55,male,0,rent,Quite Rich,7829,5086,7,Repairs
+52,male,3,rent,Moderate,10751,8930,60,Education
+23,male,1,rent,Moderate,13450,2845,43,Car
+52,male,2,rent,Rich,7352,16959,34,Car
+33,female,1,free,Rich,13516,10048,31,Car
+40,male,0,free,Moderate,8326,6377,40,Vacation
+39,male,2,free,Rich,3644,7285,34,Vacation
+27,male,0,own,Moderate,8003,16333,39,Education
+26,male,0,free,Moderate,3278,5422,46,Car
+22,female,3,rent,Moderate,7296,19214,46,Car
+36,female,1,free,Little,3074,5186,28,Repairs
+52,male,2,rent,Rich,13261,14907,8,Repairs
+31,male,0,own,Quite Rich,11173,18786,63,Education
+41,male,0,rent,Quite Rich,8312,12705,37,Car
+41,male,2,rent,Rich,1637,13679,36,Education
+49,male,0,rent,Moderate,13652,18943,48,Repairs
+57,male,3,own,Quite Rich,5103,17024,12,Repairs
+57,female,3,free,Quite Rich,17028,18673,6,Vacation
+64,male,3,free,Rich,2032,516,66,Education
+27,female,3,own,Quite Rich,2761,13874,19,Education
+46,female,0,rent,Moderate,15195,17348,57,Car
+46,male,2,free,Rich,18452,18711,11,Car
+53,female,2,own,Moderate,16625,6456,15,Vacation
+40,female,2,free,Quite Rich,2668,16973,35,Buisness
+49,female,2,own,Quite Rich,14638,5315,26,Buisness
+52,female,1,rent,Moderate,15954,19735,65,Buisness
+47,female,2,free,Little,17186,3343,68,Education
+52,female,1,own,Quite Rich,12356,16472,47,Education
+24,male,1,free,Little,195,17853,56,Repairs
+38,female,3,free,Quite Rich,2187,1594,69,Education
+23,female,1,free,Little,11707,6624,61,Education
+54,female,0,free,Little,2330,1904,46,Education
+36,male,1,own,Little,3606,4482,37,Vacation
+63,female,3,rent,Moderate,60,13015,20,Education
+47,male,1,own,Little,14387,16290,67,Car
+49,female,0,own,Little,3927,12705,32,Car
+48,male,0,own,Little,6296,13248,33,Repairs
+25,male,0,rent,Quite Rich,13622,3592,69,Vacation
+54,female,3,free,Little,14125,14471,64,Car
+60,female,3,free,Quite Rich,2591,15116,63,Vacation
+56,male,2,free,Little,12127,5433,7,Vacation
+43,female,3,rent,Little,15748,5426,41,Repairs
+48,male,0,free,Moderate,6121,4469,18,Vacation
+50,male,0,rent,Quite Rich,1200,3465,20,Education
+54,male,3,free,Little,15721,4819,65,Vacation
+52,male,1,free,Quite Rich,19238,9475,27,Repairs
+40,male,3,own,Quite Rich,11087,7608,68,Repairs
+51,female,3,rent,Rich,6972,9641,30,Repairs
+42,male,0,own,Moderate,136,16928,53,Car
+52,male,2,own,Moderate,17413,2310,48,Education
+22,female,0,own,Moderate,15346,10773,43,Car
+37,male,2,rent,Rich,18978,9521,46,Buisness
+44,female,0,rent,Rich,661,18793,50,Education
+61,female,3,free,Moderate,2472,6864,45,Vacation
+50,female,0,own,Rich,86,3081,22,Repairs
+22,male,0,free,Rich,10704,1191,62,Buisness
+59,male,0,own,Rich,6219,1431,7,Education
+43,male,3,rent,Moderate,16322,13628,67,Car
+51,female,3,rent,Moderate,14749,14726,14,Repairs
+41,male,3,rent,Moderate,6968,14361,22,Car
+42,female,3,own,Rich,19157,15975,55,Education
+21,male,2,rent,Moderate,13596,3906,45,Education
+46,female,2,own,Rich,1700,8839,63,Buisness
+61,male,1,free,Little,2700,17916,26,Vacation
+21,male,3,own,Rich,11821,18195,23,Car
+45,male,2,free,Quite Rich,18031,9079,60,Buisness
+36,female,0,own,Moderate,5520,3621,34,Repairs
+59,female,3,free,Moderate,11510,18757,29,Vacation
+52,male,1,rent,Quite Rich,3687,16446,22,Buisness
+28,male,1,free,Rich,16980,4248,23,Car
+62,female,1,rent,Little,8837,777,47,Education
+58,female,0,rent,Quite Rich,14955,18743,50,Repairs
+48,female,2,free,Quite Rich,11281,12063,22,Car
+61,male,0,own,Rich,13917,7292,19,Vacation
+45,female,3,own,Moderate,4757,14418,54,Vacation
+54,male,1,own,Rich,13045,10874,34,Education
+44,female,0,own,Quite Rich,8912,5175,9,Education
+43,male,0,own,Quite Rich,4733,1670,25,Repairs
+32,female,2,rent,Moderate,7081,9181,52,Repairs
+26,female,2,own,Moderate,8690,11217,14,Education
+55,female,1,rent,Moderate,1673,12950,32,Education
+64,female,0,rent,Rich,14318,11180,20,Vacation
+39,female,0,rent,Moderate,11171,10568,24,Education
+20,male,2,free,Quite Rich,13545,2962,57,Buisness
+27,female,0,free,Quite Rich,11803,14150,31,Car
+35,female,0,rent,Little,2294,787,31,Education
+33,female,0,free,Rich,3630,18791,31,Repairs
+31,male,2,own,Little,15093,1661,51,Buisness
+42,female,1,own,Quite Rich,16530,17013,54,Repairs
+34,male,3,rent,Little,14453,2863,58,Buisness
+47,female,1,own,Quite Rich,12174,6483,8,Education
+53,female,3,rent,Little,3453,17027,71,Car
+21,male,0,rent,Moderate,4507,8707,47,Repairs
+51,female,1,own,Little,10602,15258,24,Buisness
+42,male,3,free,Moderate,5628,744,22,Vacation
+41,male,2,own,Moderate,8328,17810,38,Education
+44,female,2,own,Rich,15534,3678,54,Car
+41,male,1,rent,Moderate,19744,2676,61,Education
+41,female,1,rent,Moderate,19389,5502,68,Vacation
+61,female,0,rent,Little,3552,1386,8,Car
+25,male,1,rent,Quite Rich,16402,14221,54,Vacation
+34,male,0,free,Rich,2242,12642,60,Education
+62,male,0,free,Moderate,14665,3154,31,Buisness
+56,male,2,free,Rich,5097,12484,57,Education
+52,female,2,rent,Little,8640,18255,12,Education
+27,female,3,rent,Moderate,1948,7635,51,Education
+63,male,2,rent,Little,5618,820,51,Repairs
+63,female,2,free,Rich,4236,5154,21,Vacation
+24,female,1,rent,Little,1920,16631,29,Vacation
+58,female,2,own,Rich,11169,11270,66,Vacation
+23,female,3,own,Little,4188,7053,59,Repairs
+25,male,1,rent,Rich,12207,12059,67,Buisness
+64,male,3,own,Quite Rich,238,9509,6,Education
+51,female,2,own,Little,204,13982,54,Buisness
+49,male,3,free,Little,10799,7998,30,Repairs
+54,male,1,rent,Quite Rich,5552,7136,15,Vacation
+59,male,0,rent,Quite Rich,4927,7862,21,Education
+35,female,3,free,Little,11164,16895,63,Car
+32,female,3,own,Quite Rich,4390,17078,34,Car
+61,female,1,own,Moderate,19071,3037,11,Buisness
+49,male,1,rent,Rich,15641,19726,21,Vacation
+38,female,3,own,Rich,6160,15716,25,Car
+36,female,2,free,Rich,15810,19113,48,Buisness
+38,male,3,free,Moderate,5126,3509,31,Repairs
+47,female,1,rent,Quite Rich,816,14709,38,Buisness
+45,female,0,free,Quite Rich,13414,16175,31,Buisness
+56,male,0,free,Little,192,15529,50,Buisness
+45,male,2,rent,Quite Rich,18160,2577,68,Education
+42,male,3,free,Little,3645,14407,57,Buisness
+28,female,0,free,Moderate,12816,4367,31,Buisness
+31,female,3,free,Rich,6314,16652,7,Education
+20,female,1,own,Rich,18172,5373,19,Education
+20,male,0,rent,Rich,7374,9135,35,Repairs
+53,male,2,rent,Quite Rich,3700,797,54,Vacation
+51,female,1,rent,Little,10655,13595,17,Car
+44,female,2,own,Little,15129,9536,49,Car
+59,male,1,own,Moderate,9359,1515,38,Buisness
+64,male,0,rent,Quite Rich,3893,1884,18,Repairs
+20,male,2,own,Moderate,6811,9245,31,Buisness
+35,male,2,rent,Little,9288,19234,26,Car
+58,female,1,own,Little,19063,18153,33,Education
+24,male,2,free,Rich,504,1760,53,Vacation
+41,female,1,free,Quite Rich,9813,8201,45,Repairs
+48,female,1,rent,Little,14671,10901,71,Education
+22,female,1,own,Rich,10738,16019,28,Vacation
+31,male,1,own,Quite Rich,11186,12364,53,Repairs
+45,male,0,free,Moderate,6773,16181,7,Repairs
+35,male,1,free,Quite Rich,3816,6043,25,Car
+56,male,3,own,Quite Rich,717,18765,64,Education
+41,female,2,own,Little,11676,12988,51,Repairs
+48,male,3,own,Little,4434,10579,8,Repairs
+33,male,0,own,Quite Rich,17042,11244,60,Vacation
+47,female,3,own,Little,5057,4309,17,Car
+24,male,2,own,Little,4994,7706,45,Buisness
+49,female,3,rent,Little,4234,14246,71,Car
+24,female,0,own,Rich,3764,16495,21,Buisness
+31,female,1,free,Rich,11181,16535,39,Education
+35,female,3,rent,Quite Rich,4637,12171,49,Education
+45,female,0,own,Little,2104,13710,11,Repairs
+45,female,0,free,Rich,9447,18293,69,Education
+40,female,2,rent,Quite Rich,10674,5697,27,Repairs
+58,female,2,free,Little,18991,16053,23,Car
+55,male,3,own,Moderate,8385,7952,17,Education
+52,male,1,own,Little,11999,9218,57,Car
+49,male,0,own,Little,3719,15359,56,Car
+56,male,3,own,Rich,2581,2672,53,Education
+42,female,0,rent,Quite Rich,18949,13658,24,Car
+29,male,0,rent,Quite Rich,2763,17163,11,Education
+24,female,1,free,Rich,5991,19553,32,Education
+55,male,1,own,Little,10531,11585,58,Education
+53,male,3,free,Moderate,19790,4481,53,Buisness
+50,male,1,rent,Little,11064,5747,12,Car
+29,female,1,own,Little,11312,11053,64,Vacation
+38,male,3,own,Moderate,4780,6635,16,Education
+51,female,1,rent,Rich,4177,6073,20,Car
+20,female,2,rent,Quite Rich,15169,14231,69,Repairs
+24,male,0,rent,Rich,6476,7689,8,Education
+64,male,0,rent,Rich,18988,15041,28,Education
+23,male,0,rent,Little,2382,11378,58,Vacation
+35,female,0,own,Quite Rich,16915,11587,42,Buisness
+43,male,3,rent,Quite Rich,12508,14167,14,Buisness
+35,female,0,own,Rich,634,3276,20,Education
+21,female,0,own,Moderate,11996,9811,8,Car
+47,male,0,rent,Rich,14162,8197,22,Repairs
+51,male,0,rent,Moderate,16386,15129,31,Repairs
+46,female,2,own,Quite Rich,14005,8886,26,Car
+39,female,0,rent,Rich,8397,17546,26,Education
+43,female,2,rent,Little,12327,8544,16,Repairs
+31,male,3,rent,Rich,14394,10115,43,Buisness
+54,female,1,free,Quite Rich,2890,15534,40,Car
+52,male,0,own,Little,10858,5560,19,Vacation
+52,female,1,free,Little,8026,11400,19,Education
+62,female,1,rent,Moderate,3306,6081,15,Car
+56,male,3,free,Little,897,2514,17,Repairs
+31,female,1,rent,Little,9277,13497,43,Education
+22,male,2,free,Rich,9471,11135,39,Buisness
+20,male,1,rent,Quite Rich,14896,14148,46,Education
+52,female,1,free,Moderate,15240,7648,15,Education
+59,male,1,free,Rich,14683,19248,22,Buisness
+29,male,0,free,Little,670,14522,22,Buisness
+62,female,0,own,Little,17889,6419,67,Education
+63,male,2,free,Moderate,11767,16386,6,Buisness
+48,male,2,own,Quite Rich,13006,7138,17,Car
+32,male,0,rent,Moderate,15768,5151,9,Buisness
+31,female,2,free,Rich,16633,1109,47,Buisness
+50,male,0,rent,Moderate,1892,8440,18,Education
+21,female,3,rent,Little,3439,10848,9,Car
+54,female,1,free,Rich,2854,4366,24,Vacation
+42,male,1,own,Little,11577,17255,7,Vacation
+36,male,2,free,Quite Rich,11763,17499,17,Repairs
+45,male,0,rent,Little,11618,2753,11,Buisness
+27,female,0,rent,Little,8235,5442,13,Buisness
+48,male,2,free,Moderate,19996,12830,56,Car
+45,male,0,own,Little,2618,1364,16,Vacation
+29,male,3,own,Rich,3163,1768,68,Repairs
+45,male,1,rent,Rich,2942,7954,62,Car
+53,male,2,rent,Quite Rich,1925,14166,17,Buisness
+60,female,2,own,Rich,2972,12870,7,Vacation
+26,female,0,free,Moderate,11705,5729,13,Repairs
+23,male,2,rent,Quite Rich,10640,16809,16,Education
+64,male,3,own,Rich,10966,19121,58,Vacation
+30,male,0,rent,Moderate,17374,4554,15,Repairs
+48,male,0,free,Rich,11138,1435,13,Car
+55,female,0,own,Rich,18196,12672,41,Education
+44,male,0,rent,Little,15935,11030,19,Repairs
+40,female,3,free,Rich,13145,16060,59,Repairs
+55,female,0,rent,Rich,489,16656,26,Buisness
+29,male,2,free,Moderate,11748,17209,55,Vacation
+56,female,3,free,Moderate,19275,10226,44,Buisness
+28,female,1,own,Little,3516,8274,25,Education
+43,female,1,free,Rich,19724,2485,12,Repairs
+54,female,2,rent,Little,6410,14752,14,Buisness
+54,male,2,free,Rich,53,5103,6,Vacation
+55,male,3,free,Quite Rich,18959,19662,31,Education
+37,female,1,own,Quite Rich,16999,16460,43,Car
+58,male,1,free,Little,5944,9962,43,Buisness
+51,male,1,free,Little,7404,14666,66,Education
+43,male,1,rent,Little,954,8254,49,Car
+42,male,1,own,Moderate,10625,14746,49,Buisness
+51,male,0,own,Moderate,1629,4578,67,Education
+56,female,2,own,Moderate,10973,13353,11,Education
+31,male,0,free,Little,6859,18251,22,Buisness
+32,male,1,own,Rich,8841,4542,56,Education
+42,male,3,free,Quite Rich,10539,16784,43,Repairs
+44,male,3,free,Little,12682,14889,29,Buisness
+54,female,1,rent,Moderate,3278,3075,56,Education
+60,female,1,rent,Moderate,18945,7254,15,Car
+49,female,3,rent,Little,6539,18465,26,Car
+36,female,0,rent,Little,16754,2486,62,Repairs
+39,male,0,rent,Moderate,857,19124,44,Buisness
+44,female,1,free,Rich,4886,15970,38,Education
+41,male,0,free,Moderate,12945,6468,64,Education
+32,male,3,own,Moderate,7485,7993,23,Car
+38,male,0,free,Little,13680,4603,61,Repairs
+55,male,1,free,Rich,16767,2576,62,Car
+31,male,3,rent,Moderate,14397,3494,53,Car
+60,female,0,free,Moderate,10744,4244,47,Repairs
+38,female,2,rent,Quite Rich,4334,14966,32,Buisness
+31,female,3,own,Little,19109,15023,57,Education
+28,female,3,own,Quite Rich,12226,6094,47,Buisness
+26,male,2,free,Quite Rich,13440,8031,37,Vacation
+47,female,2,own,Moderate,15020,7871,31,Vacation
+33,male,3,free,Little,4251,15047,30,Vacation
+50,female,2,own,Rich,12180,18528,28,Repairs
+38,male,1,rent,Moderate,16140,3644,62,Car
+35,male,1,rent,Rich,922,14490,57,Buisness
+24,female,1,rent,Rich,19299,14583,36,Education
+54,male,3,rent,Little,7957,17126,69,Vacation
+31,male,2,free,Quite Rich,19430,8454,38,Buisness
+44,female,2,own,Little,15796,7769,7,Vacation
+40,male,0,free,Rich,1230,7630,23,Vacation
+55,female,0,rent,Moderate,10627,7328,52,Education
+42,female,2,free,Rich,10006,9344,38,Repairs
+35,female,2,own,Moderate,4933,14720,40,Car
+58,male,2,free,Moderate,14295,6831,56,Repairs
+64,male,3,own,Little,16377,13897,23,Buisness
+61,male,2,free,Rich,203,18383,35,Repairs
+58,female,0,own,Quite Rich,16544,10791,49,Buisness
+33,male,3,own,Rich,15899,19042,58,Buisness
+50,female,2,rent,Rich,3748,10664,15,Car
+24,female,0,own,Quite Rich,6718,10950,57,Education
+54,male,3,rent,Little,18965,2535,54,Car
+42,female,2,rent,Rich,1093,11963,16,Repairs
+48,male,2,rent,Rich,15228,8477,71,Buisness
+62,male,2,free,Moderate,16034,17741,63,Vacation
+30,male,3,free,Rich,5710,12682,41,Vacation
+37,male,0,free,Quite Rich,9732,798,38,Buisness
+31,male,0,free,Moderate,19259,1423,52,Car
+28,female,1,own,Little,3191,13831,18,Education
+29,female,2,own,Moderate,18221,19683,45,Car
+63,female,1,free,Quite Rich,689,7078,47,Buisness
+36,male,1,own,Quite Rich,2103,5375,24,Buisness
+57,male,0,own,Moderate,365,12754,24,Education
+26,male,3,rent,Little,14010,18686,63,Repairs
+32,female,3,rent,Moderate,11767,11405,28,Repairs
+59,male,0,rent,Little,16103,13853,59,Education
+61,female,3,rent,Moderate,12742,16382,70,Repairs
+28,female,1,own,Quite Rich,12391,19541,17,Vacation
+46,male,2,free,Rich,4172,10163,29,Repairs
+21,male,0,own,Rich,15623,19833,39,Repairs
+24,female,2,own,Little,2378,1441,58,Repairs
+48,male,3,own,Little,17589,2407,13,Vacation
+56,female,2,rent,Little,12031,5337,23,Repairs
+57,male,3,rent,Quite Rich,5669,14180,62,Vacation
+38,male,3,rent,Moderate,2735,18127,10,Education
+27,female,1,free,Quite Rich,9867,6196,31,Car
+64,male,3,own,Rich,8490,16726,35,Education
+20,female,1,free,Little,956,14043,59,Car
+41,male,1,rent,Moderate,9306,13115,18,Education
+36,female,1,free,Rich,6623,1966,34,Car
+26,female,0,own,Rich,14908,18850,8,Car
+44,male,0,own,Rich,17858,875,63,Buisness
+64,female,3,rent,Quite Rich,4460,762,7,Car
+23,male,1,rent,Little,13986,12080,33,Car
+55,male,0,free,Rich,12638,10636,7,Buisness
+25,male,1,rent,Little,19212,8333,12,Repairs
+50,female,2,rent,Quite Rich,2850,2393,31,Repairs
+38,female,2,own,Rich,13299,8606,21,Buisness
+63,male,2,rent,Quite Rich,10698,12326,28,Vacation
+58,male,3,rent,Quite Rich,19348,2152,45,Car
+46,female,1,own,Little,4594,1099,65,Car
+29,male,2,own,Rich,14282,18796,37,Buisness
+45,male,0,free,Quite Rich,16285,9292,20,Buisness
+38,female,2,rent,Rich,14334,4137,18,Vacation
+58,male,2,own,Little,6644,10855,10,Repairs
+22,female,2,free,Quite Rich,2850,16489,57,Education
+64,male,3,free,Little,14933,9790,46,Repairs
+32,female,0,rent,Rich,165,6099,58,Car
+47,male,1,rent,Rich,10701,14842,55,Buisness
+39,male,0,free,Little,919,14445,20,Vacation
+47,female,1,own,Moderate,8305,11262,12,Repairs
+27,male,3,free,Quite Rich,19888,14812,45,Vacation
+60,female,3,rent,Rich,17375,7882,33,Repairs
+58,male,3,own,Rich,15715,9482,37,Car
+20,female,3,own,Quite Rich,3839,8207,20,Education
+22,female,1,free,Little,17642,17630,70,Vacation
+32,female,2,rent,Little,11618,5133,9,Vacation
+47,female,1,free,Little,13519,17804,16,Education
+44,male,0,free,Moderate,10776,9769,31,Vacation
+52,male,3,free,Moderate,67,14278,66,Vacation
+57,female,3,own,Rich,9788,7508,42,Repairs
+25,female,0,own,Little,5660,16023,28,Repairs
+63,female,1,rent,Quite Rich,4478,19265,45,Education
+64,male,2,rent,Rich,8210,4118,28,Car
+51,male,2,free,Quite Rich,10922,772,21,Vacation
+64,male,0,free,Rich,3521,13507,66,Car
+40,male,2,free,Moderate,572,18657,36,Education
+35,female,1,rent,Rich,7082,3047,58,Education
+40,female,1,own,Moderate,5395,3664,30,Repairs
+30,female,0,own,Rich,15407,14914,49,Vacation
+56,male,1,free,Little,18642,14827,17,Buisness
+55,male,3,free,Quite Rich,11094,16076,14,Education
+54,male,0,free,Little,650,1446,17,Vacation
+38,female,1,free,Rich,5741,15193,59,Car
+39,female,0,rent,Rich,13281,17390,59,Repairs
+37,male,2,own,Rich,6838,16040,33,Car
+60,female,1,free,Moderate,18971,7219,61,Education
+33,male,3,rent,Quite Rich,3262,8935,63,Education
+34,male,1,free,Quite Rich,17722,11850,47,Car
+50,female,0,free,Rich,4996,4090,43,Education
+20,male,0,own,Rich,11826,10564,58,Vacation
+22,female,1,free,Moderate,2827,18076,38,Education
+35,male,3,own,Little,14211,18348,61,Repairs
+42,female,3,own,Little,5232,890,56,Vacation
+30,female,3,own,Quite Rich,2217,13168,48,Buisness
+31,female,0,rent,Moderate,19923,12069,20,Education
+29,male,1,rent,Rich,14232,13529,43,Education
+51,male,2,own,Quite Rich,14026,13607,20,Repairs
+35,female,0,free,Moderate,19345,3060,10,Repairs
+27,female,3,own,Little,19610,6367,59,Car
+57,male,1,free,Moderate,13878,15784,56,Car
+31,male,3,own,Little,6837,1711,15,Car
+43,male,2,free,Moderate,7031,9621,17,Repairs
+47,female,3,rent,Quite Rich,14806,2039,9,Car
+27,male,3,free,Little,3716,17527,23,Car
+47,male,2,own,Quite Rich,3414,9193,41,Buisness
+55,female,1,rent,Quite Rich,17832,9421,30,Car
+45,male,0,free,Little,570,18167,41,Education
+27,male,1,free,Little,19288,10810,14,Repairs
+47,male,2,free,Rich,13288,13244,66,Vacation
+47,female,3,free,Rich,18889,4886,58,Buisness
+56,female,1,free,Rich,917,17803,23,Repairs
+60,female,0,rent,Quite Rich,10066,12742,48,Repairs
+55,female,2,rent,Quite Rich,6982,19223,40,Education
+46,female,1,rent,Rich,6336,14757,68,Car
+36,female,0,rent,Quite Rich,18062,9447,9,Education
+28,female,2,own,Quite Rich,16999,14446,46,Car
+52,male,0,rent,Little,9941,6430,50,Car
+39,male,2,free,Little,12380,5902,55,Repairs
+32,female,3,free,Quite Rich,19889,16517,33,Car
+47,male,1,rent,Rich,11667,1007,47,Buisness
+48,male,0,free,Moderate,4529,1936,6,Buisness
+32,female,2,rent,Rich,17519,12118,44,Buisness
+54,male,0,free,Moderate,12192,9250,22,Repairs
+25,male,0,own,Rich,8566,16622,40,Education
+37,male,1,own,Little,7226,7854,51,Vacation
+24,male,3,rent,Quite Rich,5162,11794,47,Car
+44,male,0,rent,Quite Rich,16590,14340,44,Vacation
+21,female,2,rent,Little,1319,4899,54,Education
+29,female,2,free,Moderate,1141,5537,67,Education
+49,female,3,rent,Moderate,4627,16348,43,Repairs
+64,male,2,own,Moderate,14501,4215,28,Buisness
+24,female,3,free,Little,2690,15377,27,Buisness
+52,male,2,rent,Moderate,7323,8337,9,Education
+20,male,1,free,Little,3255,1801,54,Repairs
+37,male,0,free,Rich,5213,7870,64,Repairs
+51,male,1,rent,Rich,4108,19039,7,Car
+30,female,0,free,Little,19404,6911,54,Buisness
+40,female,0,own,Quite Rich,18241,6865,36,Education
+45,male,0,own,Rich,19173,15949,45,Vacation
+44,female,1,free,Moderate,9802,1192,53,Buisness
+41,male,0,rent,Little,11413,1978,56,Car
+46,female,1,free,Moderate,14995,6896,48,Repairs
+32,female,3,own,Moderate,12583,8948,60,Education
+52,male,2,free,Quite Rich,5021,11122,54,Buisness
+53,female,2,free,Moderate,18771,17325,62,Vacation
+60,male,0,own,Quite Rich,6582,10573,20,Car
+54,female,1,free,Rich,13455,3146,32,Car
+20,male,2,free,Little,13117,5709,69,Buisness
+40,male,1,rent,Moderate,18950,7033,35,Vacation
+25,female,1,rent,Little,17359,7711,41,Car
+47,female,0,own,Moderate,1262,10427,54,Education
+36,male,2,own,Little,7382,12427,60,Car
+24,female,0,own,Moderate,3327,19529,61,Vacation
+50,female,0,rent,Moderate,18643,9816,49,Repairs
+24,male,2,own,Moderate,10020,12677,36,Repairs
+57,male,2,own,Moderate,17641,11346,63,Buisness
+22,female,3,own,Moderate,16848,8433,58,Vacation
+42,male,3,rent,Moderate,14062,5976,28,Car
+56,male,1,free,Moderate,19678,14353,33,Car
+56,male,2,own,Moderate,6774,8428,21,Repairs
+29,female,3,free,Moderate,15160,2580,42,Repairs
+29,female,1,own,Little,1230,6589,26,Education
+38,male,1,free,Quite Rich,9076,8297,22,Repairs
+36,female,1,rent,Moderate,3805,17745,42,Education
+40,male,3,rent,Quite Rich,14715,8846,24,Car
+33,female,2,own,Moderate,5750,1404,35,Education
+28,male,0,free,Moderate,15627,18153,50,Education
+20,male,1,rent,Little,13232,17288,23,Buisness
+64,female,3,own,Rich,3135,10474,67,Repairs
+32,male,3,own,Rich,6953,1684,41,Education
+23,female,0,rent,Little,1546,2225,57,Car
+20,female,0,rent,Quite Rich,15457,11880,24,Vacation
+59,male,3,own,Rich,17478,13557,49,Education
+51,male,2,free,Little,2411,6106,12,Repairs
+53,female,0,free,Little,19001,4456,49,Buisness
+47,male,3,free,Rich,14113,17055,39,Car
+50,male,0,own,Quite Rich,4145,19190,71,Buisness
+27,male,2,rent,Little,2775,16581,60,Vacation
+58,male,1,own,Moderate,13193,921,15,Education
+45,male,0,rent,Quite Rich,12851,6040,47,Education
+53,female,2,free,Quite Rich,13070,16788,46,Repairs
+22,female,3,free,Rich,19539,16466,15,Education
+31,male,0,rent,Rich,3970,16382,15,Car
+20,male,0,rent,Moderate,14119,5175,65,Vacation
+63,male,3,own,Little,4331,9582,56,Buisness
+24,female,1,free,Rich,10295,13509,26,Vacation
+49,male,3,own,Rich,1942,7248,13,Education
+49,female,0,own,Quite Rich,16575,6603,70,Buisness
+36,female,3,own,Rich,13404,18357,35,Repairs
+42,female,2,free,Rich,861,19065,54,Vacation
+34,male,3,own,Rich,9275,19980,14,Buisness
+56,female,0,own,Rich,17033,11848,22,Buisness
+40,male,3,own,Quite Rich,4134,10282,63,Buisness
+33,female,1,own,Moderate,11803,6382,62,Car
+21,male,3,own,Moderate,15408,6298,67,Vacation
+30,female,1,own,Little,17420,10127,57,Buisness
+58,male,2,free,Rich,16351,8915,66,Vacation
+57,female,1,own,Quite Rich,4131,12966,45,Buisness
+53,male,3,rent,Little,18532,10346,43,Repairs
+57,male,0,own,Little,12057,13220,48,Repairs
+53,male,1,own,Moderate,11349,9645,68,Repairs
+37,male,2,free,Quite Rich,11486,5024,24,Education
+49,female,1,free,Quite Rich,5457,7059,55,Buisness
+34,female,1,rent,Quite Rich,6079,8120,38,Education
+46,male,1,rent,Moderate,12453,19658,18,Vacation
+53,female,2,free,Moderate,18814,3624,67,Education
+57,male,3,free,Moderate,18263,9171,48,Vacation
+52,male,1,own,Moderate,12158,12206,54,Vacation
+43,female,1,free,Moderate,15735,18237,41,Vacation
+34,male,0,rent,Rich,15830,12570,15,Education
+49,male,2,own,Rich,15125,8634,11,Buisness
+61,female,1,rent,Quite Rich,11905,1424,62,Education
+36,male,2,own,Little,12298,19054,6,Buisness
+24,male,1,free,Quite Rich,2011,6006,63,Buisness
+48,male,3,rent,Little,3373,14150,26,Vacation
+23,male,3,own,Moderate,10335,2895,61,Education
+29,female,1,own,Little,10692,15810,25,Buisness
+36,female,3,free,Quite Rich,14527,8726,59,Repairs
+29,female,1,free,Quite Rich,12773,12281,30,Buisness
+36,male,3,free,Little,1289,6015,33,Repairs
+39,male,0,rent,Rich,1447,19554,10,Education
+43,female,0,own,Moderate,19583,3865,26,Education
+24,male,0,free,Moderate,19567,17472,23,Education
+53,male,2,rent,Quite Rich,14139,11910,52,Buisness
+25,male,2,rent,Rich,13757,9595,62,Car
+21,male,0,rent,Little,5462,10861,24,Buisness
+32,female,2,free,Moderate,19600,9031,70,Buisness
+62,female,3,free,Rich,19520,4770,8,Vacation
+62,female,1,own,Moderate,19702,10406,47,Vacation
+30,male,1,own,Rich,19166,17440,26,Buisness
+42,female,1,free,Rich,7657,11779,45,Repairs
+35,female,0,rent,Quite Rich,4920,5952,30,Vacation
+50,male,2,rent,Moderate,10345,6977,60,Buisness
+30,male,3,rent,Little,8417,17900,57,Car
+35,female,3,own,Quite Rich,17160,6970,49,Repairs
+27,female,0,rent,Quite Rich,5208,2562,61,Education
+23,female,3,own,Little,687,9530,60,Buisness
+59,female,3,own,Quite Rich,16913,2313,71,Buisness
+23,male,3,rent,Rich,13223,12171,24,Repairs
+44,female,3,rent,Rich,8080,14808,12,Vacation
+22,female,2,free,Moderate,18537,2813,68,Vacation
+51,male,3,free,Moderate,9486,10206,47,Vacation
+22,female,1,rent,Little,6094,18115,47,Education
+46,male,0,own,Moderate,7692,10337,64,Repairs
+48,male,2,own,Rich,11088,6331,25,Repairs
+51,male,3,own,Little,3103,19883,22,Vacation
+38,female,2,own,Little,2440,4556,32,Vacation
+40,female,3,own,Moderate,7124,805,52,Car
+24,male,1,free,Rich,17228,14847,7,Car
+37,female,0,rent,Little,14031,2189,68,Buisness
+47,female,3,free,Rich,14536,4417,67,Buisness
+61,male,3,own,Rich,446,3436,24,Repairs
+41,male,3,own,Rich,3915,4362,22,Repairs
+40,female,3,own,Moderate,15787,15006,44,Education
+25,male,0,own,Quite Rich,19493,14818,44,Education
+20,female,0,rent,Quite Rich,17618,15800,41,Car
+24,female,1,own,Little,6587,6149,45,Buisness
+60,female,0,rent,Rich,226,18703,50,Car
+31,female,3,own,Moderate,11151,16174,9,Car
+45,male,1,rent,Rich,5558,18226,30,Buisness
+53,male,1,free,Rich,11971,6060,35,Education
+33,male,1,own,Moderate,186,15951,34,Buisness
+45,male,3,rent,Quite Rich,14680,19110,56,Vacation
+64,female,2,free,Rich,14559,1579,29,Vacation
+46,female,3,own,Rich,11069,14483,19,Vacation
+28,male,0,own,Quite Rich,2535,15827,23,Repairs
+45,female,0,own,Moderate,1932,13255,47,Education
+41,female,3,rent,Little,2032,7735,62,Education
+49,female,3,rent,Quite Rich,1252,17697,17,Repairs
+62,male,1,free,Little,5509,2531,22,Car
+36,male,3,rent,Little,5074,9014,35,Vacation
+45,male,1,rent,Quite Rich,13900,9595,28,Vacation
+55,female,0,own,Rich,14523,14787,6,Car
+20,male,1,own,Little,1881,6411,37,Buisness
+27,male,3,own,Little,269,12195,14,Buisness
+54,male,0,own,Moderate,1630,19537,20,Education
+34,male,2,own,Rich,17958,3840,33,Repairs
+41,male,1,own,Little,13383,8376,29,Education
+33,male,0,own,Moderate,16152,16396,65,Buisness
+45,female,1,free,Rich,11084,12935,40,Car
+47,female,0,free,Quite Rich,1695,1641,32,Education
+42,male,0,free,Quite Rich,19642,19781,25,Vacation
+33,male,1,free,Moderate,14821,9781,70,Vacation
+43,female,2,own,Quite Rich,3262,2538,54,Car
+21,female,0,free,Little,1445,4770,6,Buisness
+64,male,0,own,Rich,16436,10546,15,Vacation
+45,male,0,free,Little,9949,5183,52,Vacation
+33,male,2,rent,Little,18050,17378,64,Repairs
+26,male,2,free,Quite Rich,6901,7616,67,Education
+22,female,3,free,Little,19169,2284,23,Buisness
+42,male,1,own,Quite Rich,719,4286,51,Education
+62,male,2,free,Rich,8597,9690,37,Buisness
+64,male,1,rent,Rich,6855,5928,32,Vacation
+37,male,3,own,Little,18678,7181,23,Repairs
+57,female,1,own,Moderate,8263,7393,44,Education
+54,female,2,free,Quite Rich,14520,13161,54,Vacation
+34,female,1,own,Quite Rich,11874,15392,49,Buisness
+44,male,2,own,Little,14079,10143,59,Education
+56,male,1,own,Quite Rich,17082,10443,39,Education
+47,female,2,own,Quite Rich,7243,10972,41,Vacation
+29,male,2,own,Moderate,9018,13492,23,Education
+58,male,1,own,Moderate,16732,11626,43,Repairs
+36,female,3,rent,Little,12100,7369,64,Repairs
+58,female,0,free,Moderate,16691,8169,14,Vacation
+41,female,3,rent,Little,19800,12038,56,Buisness
+45,female,1,own,Rich,4820,10565,40,Vacation
+63,male,3,own,Little,11001,10671,10,Repairs
+44,male,2,free,Rich,13907,18196,19,Car
+36,female,0,rent,Little,19942,3462,35,Car
+32,male,1,free,Quite Rich,11669,14351,9,Education
+39,female,1,rent,Moderate,15916,19822,44,Education
+44,female,1,own,Rich,10878,13479,69,Car
+23,male,0,free,Little,2985,5796,30,Repairs
+29,female,2,free,Moderate,8112,15245,33,Education
+22,male,1,own,Little,8467,6230,71,Vacation
+60,male,3,free,Moderate,18931,14421,27,Vacation
+64,male,1,rent,Moderate,336,626,36,Repairs
+37,male,1,rent,Little,10165,6102,28,Education
+55,female,1,rent,Rich,19363,18075,53,Vacation
+41,male,1,rent,Rich,12768,19523,25,Education
+53,female,2,own,Quite Rich,3968,13081,43,Education
+27,female,3,free,Moderate,910,16497,60,Vacation
+59,female,2,rent,Quite Rich,18380,18250,6,Car
+63,female,3,own,Quite Rich,15632,9711,12,Vacation
+38,male,1,free,Little,16279,15497,62,Repairs
+61,male,0,free,Little,3129,7171,17,Buisness
+60,female,2,own,Little,5447,12771,10,Vacation
+56,female,0,own,Moderate,6129,9376,55,Education
+25,male,2,rent,Little,5850,3387,47,Education
+45,female,1,free,Little,7446,10154,17,Vacation
+53,male,2,free,Moderate,11949,4586,23,Buisness
+64,female,1,own,Moderate,8519,19145,71,Vacation
+25,male,2,free,Rich,314,4680,22,Buisness
+56,female,1,rent,Little,11737,3341,67,Buisness
+52,female,1,free,Little,1134,6540,46,Repairs
+41,male,3,own,Little,10938,10804,39,Education
+40,female,1,own,Rich,15588,5258,50,Education
+25,female,3,rent,Little,8347,17510,63,Buisness
+25,male,1,rent,Rich,5592,16734,56,Education
+23,female,0,free,Quite Rich,18108,5514,39,Car
+49,male,1,free,Rich,19727,1875,49,Buisness
+30,male,0,own,Quite Rich,17270,1681,20,Education
+49,female,0,rent,Little,10997,990,55,Car
+50,female,1,rent,Quite Rich,721,4229,37,Repairs
+43,female,0,rent,Rich,9104,6474,8,Education
+28,female,3,free,Moderate,19741,18824,56,Car
+22,female,2,rent,Quite Rich,870,2382,53,Vacation
+50,female,1,own,Quite Rich,6751,3487,22,Vacation
+59,female,0,own,Little,16881,6085,12,Car
+56,male,1,free,Rich,1756,3659,18,Buisness
+55,female,3,free,Quite Rich,1117,5030,71,Buisness
+43,male,1,rent,Quite Rich,11601,17565,9,Education
+50,female,1,free,Quite Rich,2828,1573,15,Vacation
+25,female,0,own,Quite Rich,14996,14243,22,Buisness
+21,male,3,rent,Moderate,18031,19271,57,Buisness
+39,female,2,own,Rich,13878,3193,11,Vacation
+47,female,2,rent,Little,6992,10062,14,Repairs
+30,male,0,free,Little,13778,4840,26,Buisness
+23,female,1,rent,Moderate,6771,2656,29,Car
+34,female,0,rent,Rich,16526,16684,9,Education
+25,female,0,own,Quite Rich,19145,8466,29,Buisness
+49,male,0,own,Moderate,3435,3080,64,Buisness
+57,female,1,rent,Rich,6622,7757,8,Repairs
+21,female,3,free,Quite Rich,12852,2659,45,Car
+34,female,0,free,Moderate,14806,16672,53,Education
+30,female,1,own,Rich,10623,14400,59,Buisness
+27,male,3,free,Little,1848,11940,40,Education
+45,male,0,own,Little,2696,15178,61,Vacation
+64,female,2,free,Rich,1717,14936,45,Buisness
+63,female,3,rent,Little,19456,12521,51,Buisness
+24,male,0,own,Rich,9259,7272,18,Vacation
+25,male,3,own,Quite Rich,2786,2127,32,Repairs
+45,female,3,rent,Rich,14154,12164,11,Buisness
+23,male,3,own,Quite Rich,13409,8719,22,Education
+38,female,3,free,Moderate,3791,18869,41,Car
+39,male,3,free,Rich,3871,10213,7,Education
+52,male,3,own,Moderate,1806,8988,57,Repairs
+39,male,0,free,Little,17888,2681,71,Car
+31,male,2,own,Quite Rich,19692,12094,57,Education
+20,female,1,rent,Rich,13304,19180,48,Education
+45,male,3,own,Moderate,18074,7664,27,Vacation
+33,male,1,rent,Quite Rich,15549,19481,60,Repairs
+57,female,0,free,Quite Rich,3303,1401,65,Vacation
+56,male,3,rent,Little,19497,9790,63,Car
+30,male,2,free,Little,16061,18561,17,Vacation
+55,female,1,own,Quite Rich,15198,3381,44,Repairs
+32,male,3,free,Quite Rich,17888,13558,18,Buisness
+62,female,0,own,Rich,10655,6122,46,Buisness
+22,female,2,own,Quite Rich,8924,1878,62,Car
+52,female,1,rent,Rich,9940,18132,58,Buisness
+25,female,1,rent,Quite Rich,3924,6150,17,Vacation
+29,male,3,rent,Little,9783,12933,18,Car
+24,female,2,rent,Rich,4485,9956,62,Repairs
+42,male,2,free,Moderate,12629,7536,45,Car
+29,male,2,free,Little,13233,6987,50,Car
+63,male,2,free,Rich,12901,17942,40,Education
+21,male,0,own,Rich,191,18932,8,Education
+32,male,2,free,Moderate,4917,4748,10,Car
+59,male,1,free,Rich,5831,19360,16,Buisness
+21,male,1,free,Quite Rich,10160,5103,61,Education
+39,male,0,rent,Moderate,13682,13132,15,Repairs
+20,male,1,free,Little,12391,720,39,Vacation
+56,male,1,own,Little,1874,14726,36,Education
+28,female,2,rent,Quite Rich,9062,5318,71,Car
+36,female,1,own,Little,4763,7849,46,Buisness
+28,female,0,free,Rich,10234,6118,68,Vacation
+30,male,2,rent,Rich,9221,10356,37,Education
+34,female,3,own,Quite Rich,11410,5076,25,Buisness
+43,female,2,free,Little,14519,18755,62,Buisness
+57,female,0,own,Little,1051,15707,55,Buisness
+54,male,2,own,Quite Rich,12225,1962,30,Car
+49,male,2,own,Moderate,9765,16405,17,Repairs
+50,male,0,free,Little,11382,16752,44,Buisness
+24,male,2,free,Moderate,12580,8736,22,Vacation
+63,female,0,own,Little,11989,8313,50,Education
+33,female,0,rent,Little,11939,2568,16,Vacation
+30,female,3,rent,Little,18489,6253,28,Car
+28,female,1,free,Little,307,7737,43,Car
+53,male,1,free,Rich,3359,14675,7,Vacation
+31,male,2,free,Moderate,3176,6691,42,Repairs
+54,male,2,free,Moderate,1251,18398,54,Car
+54,female,3,free,Little,5366,19482,57,Car
+20,male,3,rent,Little,17901,15122,38,Vacation
+59,male,3,free,Moderate,6226,1501,27,Car
+41,female,0,own,Rich,14330,17917,10,Repairs
+48,female,3,own,Quite Rich,4891,15377,23,Repairs
+27,male,3,rent,Quite Rich,4992,10732,43,Repairs
+30,male,2,own,Moderate,1961,4976,42,Education
+60,male,3,rent,Little,12497,17362,69,Repairs
+56,male,0,rent,Little,19247,1015,15,Repairs
+33,male,0,own,Rich,10848,12978,47,Education
+49,male,2,free,Quite Rich,13255,1691,53,Buisness
+54,female,3,own,Rich,4567,11360,49,Car
+40,female,3,own,Quite Rich,16079,13948,21,Repairs
+56,female,0,rent,Moderate,6513,6797,59,Car
+24,male,3,own,Quite Rich,15235,17155,40,Vacation
+38,female,3,rent,Rich,11755,8834,33,Car
